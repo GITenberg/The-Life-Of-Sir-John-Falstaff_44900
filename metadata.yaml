@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '42976'
     url: http://www.gutenberg.org/2009/agents/42976
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44900#The-Life-Of-Sir-John-Falstaff
 gutenberg_issued: '2014-02-14'
 gutenberg_type: Text
 identifiers:
